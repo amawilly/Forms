@@ -17,7 +17,7 @@ body {
 
 #right-panel {
     display: none;
-    background-color: #fff;
+    background-color: #ccc;
     overflow-y: auto;
     transition: width 0.3s ease-in-out;
 }
